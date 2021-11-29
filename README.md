@@ -10,7 +10,6 @@
 
 ```
 raspistill -o image.jpg
-
 ```
 
 如果报错，你可以尝试以下步骤
