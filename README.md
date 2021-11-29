@@ -4,6 +4,8 @@
 
 本项目基于https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
 
+This repository is based on https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
+
 需要确保你的树莓派摄像头正确安装
 
 使用这个命令检测摄像头是否正确安装，如果正确安装的摄像头可以拍摄一张照片。
