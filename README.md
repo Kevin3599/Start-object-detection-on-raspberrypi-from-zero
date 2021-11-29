@@ -17,8 +17,9 @@ raspistill -o image.jpg
 ```
 1.使用raspi-config打开树莓派的摄像头功能
 ```
-
+```
 2.重新安装树莓派摄像头
+```
 
 ![80679238_p0](https://user-images.githubusercontent.com/69574926/143894069-e2ff5aff-ff99-4c27-9b6c-8896b6dd267b.jpg)
 
