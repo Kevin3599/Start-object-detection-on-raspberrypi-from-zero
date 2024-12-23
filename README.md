@@ -23,9 +23,6 @@ raspistill -o image.jpg
 2.重新安装树莓派摄像头
 ```
 
-Work ID:https://www.pixiv.net/en/artworks/80679238
-
-
 
 
 
